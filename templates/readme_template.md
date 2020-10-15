@@ -3,14 +3,8 @@
 {% include "whats-this.md" %}
 
 ----
-{% for advocate in advocates %}
-
-### [{{advocate.name}}]({{advocate.url}}) - {{advocate.company}}
-
-{% for link in advocates.links %}
-- [link.title](link.name)
-{% endfor %}
-
+{% for advocate, adv_data in advocates %}
+### [{{advocate}}]({{adv_data.website}}) - {{adv_data.company}}
 {% endfor %}
 ----
 
