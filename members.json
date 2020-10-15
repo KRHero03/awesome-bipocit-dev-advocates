@@ -8,13 +8,16 @@
         "job-hunting": false,
         "company":"Elastic",
         "image": "",
-        "linkedIn":"kjaymiller"
+        "linkedIn":"kjaymiller",
+        "twitch": "kjaymiller"
     },
     "Brian Douglas": {
         "github": "bdougie",
         "twitter": "bdougieyo",
         "website": "https://bdougie.live",
         "company": "GitHub"
+        "youtube": "https://youtube.com/ilikerobot",
+        "twitch": "bdougieyo"
     },
     "Kim Maida": {
         "website": "https://dev.to/kimmaida",
