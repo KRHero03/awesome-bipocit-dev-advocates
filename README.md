@@ -5,12 +5,15 @@ This is an awesome list of BIPOC Developer Advocates
 ----
 
 ### [Jay Miller](https://kjaymiller.com) - Elastic
-[![github](.assets/github-square-brands.svg)](kjaymiller)
+[![github](.assets/github-square-brands.svg)](https://github.com/kjaymiller)
+[![twitter](.assets/twitter-square-brands.svg)](https://twitter.com/kjaymiller)
 
 ### [Brian Douglas](https://bdougie.live) - GitHub
-[![github](.assets/github-square-brands.svg)](bdougie)
+[![github](.assets/github-square-brands.svg)](https://github.com/bdougie)
+[![twitter](.assets/twitter-square-brands.svg)](https://twitter.com/bdougieyo)
 
 ### [Kim Maida]() - 
+
 
 
 ----
