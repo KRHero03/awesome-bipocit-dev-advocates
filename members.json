@@ -7,7 +7,8 @@
         "bio": "Jay is a Developer Advocate at Elastic, based in San Diego, Ca. A multipotentialite, Jay enjoys finding unique ways to merge his fascination with productivity, automation, and development to create tools and content to serve the tech community.",
         "job-hunting": false,
         "company":"Elastic",
-        "image": ""
+        "image": "",
+        "linkedIn":"kjaymiller"
     },
     "Brian Douglas": {
         "github": "bdougie",
@@ -22,5 +23,11 @@
         "twitter": "kimmaida",
         "job-hunting": false,
         "company": "Nrwl"
+    },
+    "Ricardo Ferreira": {
+        "github": "riferrei",
+        "company": "Elastic",
+        "twitter": "riferrei",
+        "job-hunting": false
     }
 }
