@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+---
+name: Add BIPOC Advocate
+about: Use this template to add a new advocate.
+title: "ADD: [Advocate Name]"
+labels: new-advocate, pending-review
+assignees: kjaymiller
+---
+
