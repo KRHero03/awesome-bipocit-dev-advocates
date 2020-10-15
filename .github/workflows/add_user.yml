@@ -1,0 +1,19 @@
+name: Update README
+# This workflow checks my blog for the latest posts
+#
+
+on: 
+  issue-comment:
+    type: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # All the Prep Work
+      - name: Checkout Main
+        uses: actions/checkout@v2
+
+      - name: get issue
+        run: echo $GITHUB_EVENT_NAME
