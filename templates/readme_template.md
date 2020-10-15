@@ -8,6 +8,7 @@ This is an awesome list of BIPOC Developer Advocates
 {% if adv_data.github %}[![github](assets/github-square-brands.png)](https://github.com/{{adv_data.github}}){% endif %}
 {% if adv_data.twitter %}[![twitter](assets/twitter-square-brands.png)](https://twitter.com/{{adv_data.twitter}}){% endif %}
 {% if adv_data.linkedIn %}[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/{{adv_data.linkedIn}}){% endif %}
+{% if adv_data.youtube %}[![youtube](assets/youtube-brands.png)]({{adv_data.youtube}}){% endif %}
 {% endfor %}
 ----
 
