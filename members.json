@@ -6,17 +6,21 @@
         "website": "https://kjaymiller.com",
         "bio": "Jay is a Developer Advocate at Elastic, based in San Diego, Ca. A multipotentialite, Jay enjoys finding unique ways to merge his fascination with productivity, automation, and development to create tools and content to serve the tech community.",
         "job-hunting": false,
-        "company":"Elastic"
+        "company":"Elastic",
+        "image": ""
     },
     "Brian Douglas": {
         "github": "bdougie",
         "twitter": "bdougieyo",
         "website": "https://bdougie.live",
-        "bio":"",
         "job-hunting": false,
         "company": "GitHub"
     },
     "Kim Maida": {
-
+        "website": "https://dev.to/kimmaida",
+        "github": "kmaida",
+        "twitter": "kimmaida",
+        "job-hunting": false,
+        "company": "Nrwl"
     }
 }

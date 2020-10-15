@@ -12,9 +12,9 @@ This is an awesome list of BIPOC Developer Advocates
 [![github](assets/github-square-brands.png)](https://github.com/bdougie)
 [![twitter](assets/twitter-square-brands.png)](https://twitter.com/bdougieyo)
 
-### [Kim Maida]() - 
-
-
+### [Kim Maida](https://dev.to/kimmaida) - Nrwl
+[![github](assets/github-square-brands.png)](https://github.com/kmaida)
+[![twitter](assets/twitter-square-brands.png)](https://twitter.com/kimmaida)
 
 ----
 
