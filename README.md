@@ -7,14 +7,14 @@ This is an awesome list of BIPOC Developer Advocates
 ### [Jay Miller](https://kjaymiller.com) - Elastic
 [![github](assets/github-square-brands.png)](https://github.com/kjaymiller)
 [![twitter](assets/twitter-square-brands.png)](https://twitter.com/kjaymiller)
-[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/kjaymiller)
 
+[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/kjaymiller)
 
 ### [Brian Douglas](https://bdougie.live) - GitHub
 [![github](assets/github-square-brands.png)](https://github.com/bdougie)
 [![twitter](assets/twitter-square-brands.png)](https://twitter.com/bdougieyo)
-
 [![youtube](assets/youtube-brands.png)](https://youtube.com/ilikerobot)
+
 
 ### [Kim Maida](https://dev.to/kimmaida) - Nrwl
 [![github](assets/github-square-brands.png)](https://github.com/kmaida)
@@ -31,8 +31,8 @@ This is an awesome list of BIPOC Developer Advocates
 ### [Cecil Phillip]() - Microsoft
 [![github](assets/github-square-brands.png)](https://github.com/cecilphillip)
 [![twitter](assets/twitter-square-brands.png)](https://twitter.com/cecilphillip)
-[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/cecilphillip)
 
+[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/cecilphillip)
 
 ----
 
