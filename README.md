@@ -1,4 +1,4 @@
-# {site.title}
+# Awesome BIPOCIT Dev Advocates
 
 ## What's This
 
