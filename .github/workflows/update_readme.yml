@@ -32,4 +32,4 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m ":robot: Automated update README: ${timestamp}" || exit 0
-          g
+          git push
