@@ -2,7 +2,7 @@ name: Update README
 # This workflow checks my blog for the latest posts
 #
 
-on: [push, merge]
+on: [push]
 
 jobs:
   build:
