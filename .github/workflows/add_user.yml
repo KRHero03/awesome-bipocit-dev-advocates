@@ -3,7 +3,7 @@ name: Add BIPOC
 #
 
 on: 
-  issue-comment:
+  issue_comment:
     type: [created]
 
 jobs:
