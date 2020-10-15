@@ -24,6 +24,11 @@ This is an awesome list of BIPOC Developer Advocates
 [![twitter](assets/twitter-square-brands.png)](https://twitter.com/riferrei)
 
 
+### [Cecil Phillip]() - Microsoft
+[![github](assets/github-square-brands.png)](https://github.com/cecilphillip)
+[![twitter](assets/twitter-square-brands.png)](https://twitter.com/cecilphillip)
+[![linkedIn](assets/linkedin-brands.png)](https://linkedin.com/in/cecilphillip)
+
 ----
 
 ## What is BIPOC
