@@ -1,6 +1,6 @@
 # {{site.title}}
 
-{% include "whats-this.md" %}
+This is an awesome list of BIPOC Developer Advocates
 
 ----
 {% for advocate, adv_data in advocates %}
@@ -9,5 +9,5 @@
 ----
 
 {% include "whats-the-plan.md" %}
-
 {% include "missing.md" %}
+{% include "whats-this.md" %}
